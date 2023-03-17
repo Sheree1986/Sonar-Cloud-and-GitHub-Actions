@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/44912347/206007212-1411a073-b11c-4a56-a36d-19d2dffe294f.jpg)
+![logo](https://user-images.githubusercontent.com/44912347/206007212-1411a073-b11c-4a56-a36d-19d2dffe294f.jpg) d
 
 # Sonar Cloud and GitHub Actions CI
 **GOAL**: Setup SonarCloud to run as a part of your GitHub Actions!
